@@ -1,0 +1,13 @@
+pt-BR:
+  activerecord:
+    models:
+      client:
+        one: Cliente
+        other: Clientes
+      sale:
+        one: Venda
+        other: Vendas
+    attributes:
+      client:
+        name: "Nome"
+        company_name: "Nome da Empresa"

@@ -43,6 +43,7 @@ gem 'rails_admin'
 gem 'devise'
 gem 'cancancan'
 gem 'carrierwave'
+gem 'rails_admin_rollincode', '~> 1.0'
 
 ###########################################################################
 
